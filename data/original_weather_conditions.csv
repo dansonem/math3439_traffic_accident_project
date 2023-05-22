@@ -1,0 +1,115 @@
+Weather_Condition,Value_Count,Weather_Condition_Simple
+Fair,1042415,Fair
+Cloudy,334793,Cloudy
+Mostly Cloudy,285317,Cloudy
+Partly Cloudy,195367,Cloudy
+Light Rain,106754,Rain
+Light Snow,40157,Freeze
+Fog,37214,Obstruction
+Haze,29095,Obstruction
+Rain,24802,Rain
+Fair / Windy,14483,Fair
+Heavy Rain,9847,Rain
+Thunder in the Vicinity,6739,Rain
+Cloudy / Windy,6532,Cloudy
+T-Storm,6338,Rain
+Mostly Cloudy / Windy,6183,Cloudy
+Smoke,5971,Obstruction
+Thunder,5922,Rain
+Light Drizzle,5696,Rain
+Light Rain with Thunder,5218,Rain
+Snow,4635,Freeze
+Overcast,3974,Cloudy
+Wintry Mix,3824,Freeze
+Partly Cloudy / Windy,3775,Cloudy
+Heavy T-Storm,3539,Rain
+Light Rain / Windy,3314,Rain
+Light Snow / Windy,2092,Freeze
+Drizzle,1304,Rain
+Heavy Snow,1270,Freeze
+Rain / Windy,1052,Rain
+N/A Precipitation,944,Fair
+Shallow Fog,805,Obstruction
+Light Freezing Rain,777,Freeze
+Patches of Fog,735,Obstruction
+Heavy Rain / Windy,716,Rain
+Haze / Windy,546,Obstruction
+Mist,536,Rain
+Showers in the Vicinity,494,Rain
+Snow / Windy,388,Freeze
+Heavy T-Storm / Windy,381,Rain
+Light Freezing Drizzle,342,Freeze
+T-Storm / Windy,256,Rain
+Fog / Windy,250,Obstruction
+Thunder / Windy,221,Rain
+Heavy Snow / Windy,198,Freeze
+Clear,146,Fair
+Blowing Dust / Windy,140,Obstruction
+Scattered Clouds,137,Cloudy
+Blowing Dust,136,Obstruction
+Drizzle and Fog,132,Rain
+Blowing Snow,111,Freeze
+Snow and Sleet,104,Freeze
+Light Drizzle / Windy,102,Rain
+Heavy Drizzle,101,Rain
+Light Rain Shower,88,Rain
+Blowing Snow / Windy,84,Freeze
+Wintry Mix / Windy,71,Freeze
+Light Sleet,68,Freeze
+Light Ice Pellets,66,Freeze
+Smoke / Windy,46,Obstruction
+Sleet,46,Freeze
+Freezing Rain,44,Freeze
+Light Snow and Sleet,43,Freeze
+Light Freezing Rain / Windy,35,Freeze
+Light Freezing Fog,29,Freeze
+Small Hail,29,Freeze
+Ice Pellets,28,Freeze
+Light Thunderstorms and Rain,26,Rain
+Light Snow Shower,25,Freeze
+Squalls / Windy,20,Rain
+Widespread Dust,19,Obstruction
+Rain Shower,18,Rain
+Widespread Dust / Windy,18,Obstruction
+Snow and Sleet / Windy,18,Freeze
+Light Snow and Sleet / Windy,16,Freeze
+Sand / Dust Whirlwinds,15,Obstruction
+Heavy Thunderstorms and Rain,15,Rain
+Thunderstorms and Rain,14,Rain
+Heavy Sleet,13,Freeze
+Freezing Drizzle,11,Freeze
+Light Snow with Thunder,10,Freeze
+Tornado,9,Obstruction
+Drizzle / Windy,8,Rain
+Light Sleet / Windy,7,Freeze
+Thunder / Wintry Mix,6,Freeze
+Squalls,5,Rain
+Snow Grains,5,Freeze
+Patches of Fog / Windy,4,Obstruction
+Partial Fog,4,Obstruction
+Heavy Snow with Thunder,3,Freeze
+Heavy Thunderstorms and Snow,3,Freeze
+Heavy Rain Shower,3,Rain
+Thunder / Wintry Mix / Windy,2,Freeze
+Light Rain Showers,2,Rain
+Light Blowing Snow,2,Freeze
+Freezing Rain / Windy,2,Freeze
+Thunder and Hail,2,Freeze
+Sand / Windy,2,Obstruction
+Thunderstorm,2,Rain
+Blowing Snow Nearby,2,Freeze
+Snow and Thunder / Windy,2,Freeze
+Hail,2,Freeze
+Sand / Dust Whirls Nearby,1,Obstruction
+Heavy Ice Pellets,1,Freeze
+Heavy Thunderstorms with Small Hail,1,Freeze
+Light Thunderstorms and Snow,1,Freeze
+Drifting Snow,1,Freeze
+Sleet / Windy,1,Freeze
+Light Rain Shower / Windy,1,Rain
+Blowing Sand,1,Obstruction
+Heavy Freezing Rain,1,Freeze
+Heavy Freezing Drizzle,1,Freeze
+Heavy Rain Shower / Windy,1,Rain
+Sand / Dust Whirlwinds / Windy,1,Obstruction
+Thunder and Hail / Windy,1,Freeze
